@@ -25,5 +25,4 @@ To get started with the registration process, follow these simple steps:
 
 This application is built using HTML, CSS, and JavaScript.
 
-Happy registering! 🎉
 
