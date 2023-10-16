@@ -1,5 +1,7 @@
 # Sports Team and School Club Registration App
 
+Worked alongside 3 other people to create this.
+
 Welcome to the Sports Team and School Club Registration App, a convenient registration platform designed for sports teams and school clubs/groups. This application streamlines the registration process, making it easy for users to join their chosen organization, select their desired team or club, and complete the registration form. If time allows or in a future class, administrators can also manage registrations efficiently.
 
 ## Getting Started
